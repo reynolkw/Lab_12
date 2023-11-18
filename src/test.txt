@@ -1,0 +1,5 @@
+This is a test file.
+The Java program will determine
+the number of lines,
+the number of words,
+and the number of characters.
